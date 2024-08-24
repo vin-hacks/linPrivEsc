@@ -8,4 +8,4 @@ chmod +x linPrivEsc.sh
 
 linPrivEsc [username*] [password*]
 
-* = optional
+\* = optional
