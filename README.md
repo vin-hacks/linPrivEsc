@@ -1,2 +1,2 @@
 # linPrivEsc
-Small linux privilege escalatiom script
+Small linux privilege escalation script
