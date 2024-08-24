@@ -6,6 +6,6 @@ Small linux privilege escalation script
 
 chmod +x linPrivEsc.sh
 
-linPrivEsc [username*] [password*]
+./linPrivEsc [username*] [password*]
 
 \* = optional
